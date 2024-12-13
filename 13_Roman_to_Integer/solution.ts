@@ -32,6 +32,11 @@ function romanToInt(s: string): number {
   return res
 }
 
+/**
+ * Time complexity: O(n)
+ * Space complexity: O(1)
+ */
+
 console.log(romanToInt("III"))
 console.log(romanToInt("LVIII"))
 console.log(romanToInt("MCMXCIV"))

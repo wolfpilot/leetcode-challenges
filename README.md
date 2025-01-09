@@ -26,5 +26,6 @@ ex: go run .\2824_Count_Pairs_Whose_Sum_is_Less_than_Target\solution.go
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [TypeScript](./14_Longest_Common_Prefix/solution.ts), [Go](./14_Longest_Common_Prefix/solution.go) | Easy |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./848_Shifting_Letters/solution.ts) | Medium |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./2000_Reverse_Prefix_of_Word/solution.ts), [Go](./2000_Reverse_Prefix_of_Word/solution.go) | Easy |
-| 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./2381-Shifting_Letters_II/solution.ts) | Medium |
+| 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./2381_Shifting_Letters_II/solution.ts) | Medium |
 | 2824 | [Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [TypeScript](./2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.ts), [Go](./2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.go) | Easy |
+| 3194 | [3194 Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | [TypeScript](./3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.ts), [Go](./3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.go) | Easy |

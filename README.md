@@ -18,13 +18,18 @@ ex: npx tsx .\2824_Count_Pairs_Whose_Sum_is_Less_than_Target\solution.ts
 ex: go run .\2824_Count_Pairs_Whose_Sum_is_Less_than_Target\solution.go
 ```
 
+#### Python
+If you're using VS Code, install the official Python [extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python). With the Python file highlighted/focus in your editor, press `CTRL + SHIFT + P`, then click `Python: Run Python File in Terminal`.
+
+Alternatively, try out any of the online compilers, such as [Programiz](https://www.programiz.com/python-programming/online-compiler/) or [OneCompiler](https://onecompiler.com/python).
+
 ### LeetCode Algorithm
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [TypeScript](./13_Roman_to_Integer/solution.ts) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [TypeScript](./14_Longest_Common_Prefix/solution.ts), [Go](./14_Longest_Common_Prefix/solution.go) | Easy |
-| 35 | [Search Insert Position](https://leetcode.com/search-insert-position) | [TypeScript](./35_Search_Insert_Position/solution.ts) | Easy |
+| 35 | [Search Insert Position](https://leetcode.com/search-insert-position) | [TypeScript](./35_Search_Insert_Position/solution.ts), [Python](./35_Search_Insert_Position/solution.py) | Easy |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./848_Shifting_Letters/solution.ts) | Medium |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./2000_Reverse_Prefix_of_Word/solution.ts), [Go](./2000_Reverse_Prefix_of_Word/solution.go) | Easy |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./2381_Shifting_Letters_II/solution.ts) | Medium |

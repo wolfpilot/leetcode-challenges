@@ -30,6 +30,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [TypeScript](./13_Roman_to_Integer/solution.ts) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [TypeScript](./14_Longest_Common_Prefix/solution.ts), [Go](./14_Longest_Common_Prefix/solution.go) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/search-insert-position) | [TypeScript](./35_Search_Insert_Position/solution.ts), [Python](./35_Search_Insert_Position/solution.py) | Easy |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [TypeScript](./217_Contains_Duplicate/solution.ts) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [TypeScript](./367_Valid_Perfect_Square/solution.ts) | Easy |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./848_Shifting_Letters/solution.ts) | Medium |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./2000_Reverse_Prefix_of_Word/solution.ts), [Go](./2000_Reverse_Prefix_of_Word/solution.go) | Easy |

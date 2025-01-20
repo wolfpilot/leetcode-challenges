@@ -34,6 +34,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [TypeScript](./217_Contains_Duplicate/solution.ts) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [TypeScript](./367_Valid_Perfect_Square/solution.ts) | Easy |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./848_Shifting_Letters/solution.ts) | Medium |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./1004_Max_Consecutive_Ones_III/solution.ts) | Medium |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./2000_Reverse_Prefix_of_Word/solution.ts), [Go](./2000_Reverse_Prefix_of_Word/solution.go) | Easy |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./2381_Shifting_Letters_II/solution.ts) | Medium |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [TypeScript](./2540_Minimum_Common_Value/solution.ts) | Easy |

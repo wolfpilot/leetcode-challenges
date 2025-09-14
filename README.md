@@ -28,6 +28,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [TypeScript](./5_Longest_Palindromic_Substring/solution.ts) | Medium |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [TypeScript](./11_Container_With_Most_Water/solution.ts) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [TypeScript](./13_Roman_to_Integer/solution.ts) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [TypeScript](./14_Longest_Common_Prefix/solution.ts), [Go](./14_Longest_Common_Prefix/solution.go) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/search-insert-position) | [TypeScript](./35_Search_Insert_Position/solution.ts), [Python](./35_Search_Insert_Position/solution.py) | Easy |

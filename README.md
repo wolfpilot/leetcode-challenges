@@ -36,6 +36,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [TypeScript](./217_Contains_Duplicate/solution.ts) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [TypeScript](./367_Valid_Perfect_Square/solution.ts) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./557_Reverse_Words_in_a_String_III//solution.ts) | Easy |
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [TypeScript](./763_Partition_Labels//solution.ts) | Medium |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./848_Shifting_Letters/solution.ts) | Medium |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./1004_Max_Consecutive_Ones_III/solution.ts) | Medium |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [TypeScript](./1920_Build_Array_from_Permutation/solution.ts), [Kotlin](./1920_Build_Array_from_Permutation/solution.kts) | Easy |

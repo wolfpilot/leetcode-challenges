@@ -40,6 +40,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./1004_Max_Consecutive_Ones_III/solution.ts) | Medium |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [TypeScript](./1920_Build_Array_from_Permutation/solution.ts), [Kotlin](./1920_Build_Array_from_Permutation/solution.kts) | Easy |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./2000_Reverse_Prefix_of_Word/solution.ts), [Go](./2000_Reverse_Prefix_of_Word/solution.go) | Easy |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [TypeScript](./2149_Rearrange_Array_Elements_by_Sign/solution.ts), [TypeScript #2](./2149_Rearrange_Array_Elements_by_Sign/solution2.ts) | Medium |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./2381_Shifting_Letters_II/solution.ts) | Medium |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [TypeScript](./2540_Minimum_Common_Value/solution.ts) | Easy |
 | 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array) | [TypeScript](./2625_Flatten_Deeply_Nested_Array/solution.ts) | Medium |

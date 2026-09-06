@@ -50,6 +50,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [TypeScript](./problems/1_Two_Sum/solution.ts) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [TypeScript](./problems/11_Container_With_Most_Water/solution.ts) | Medium |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./problems/557_Reverse_Words_in_a_String_III//solution.ts) | Easy |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./problems/2000_Reverse_Prefix_of_Word/solution.ts), [Go](./problems/2000_Reverse_Prefix_of_Word/solution.go) | Easy |

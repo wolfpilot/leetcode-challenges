@@ -1,3 +1,24 @@
+<style>
+    table {
+        width: 100%;
+
+        th:nth-child(1),
+        td:nth-child(1) {
+            width: 60px;
+        }
+
+        th:nth-child(3),
+        td:nth-child(3) {
+            width: 100px
+        }
+
+        th:nth-child(4),
+        td:nth-child(4) {
+            width: 80px
+        }
+    }
+</style>
+
 # LeetCode
 
 ### How to run
@@ -25,25 +46,108 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 
 ### LeetCode Algorithm
 
+#### I. Two Pointer
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [TypeScript](./11_Container_With_Most_Water/solution.ts) | Medium |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./557_Reverse_Words_in_a_String_III//solution.ts) | Easy |
+| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./2000_Reverse_Prefix_of_Word/solution.ts), [Go](./2000_Reverse_Prefix_of_Word/solution.go) | Easy |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [TypeScript](./2161_Partition_Array_According_to_Given_Pivot/solution.ts) | Medium |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [TypeScript](./2540_Minimum_Common_Value/solution.ts) | Easy |
+| 2824 | [Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [TypeScript](./2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.ts), [Go](./2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.go) | Easy |
+| 3194 | [3194 Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | [TypeScript](./3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.ts), [Go](./3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.go) | Easy |
+
+#### II. Sliding Window
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./209_Minimum_Size_Subarray_Sum/solution.ts) | Medium |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./1004_Max_Consecutive_Ones_III/solution.ts) | Medium |
+
+#### III. Tree Traversal
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### IV. Graph Traversal
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### V. Dynamic Programming (DP)
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### VI. Heap (Priority Queue)
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### VII. Backtracking
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### VIII. Greedy
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### IX. Binary Search
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+| 35 | [Search Insert Position](https://leetcode.com/search-insert-position) | [TypeScript](./35_Search_Insert_Position/solution.ts), [Python](./35_Search_Insert_Position/solution.py) | Easy |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [TypeScript](./367_Valid_Perfect_Square/solution.ts) | Easy |
+
+#### X. Stack
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### XI. Bit Manipulation
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### XII. Linked List Manipulation
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### XIII. Array/Matrix Manipulation
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [TypeScript](./217_Contains_Duplicate/solution.ts) | Easy |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [TypeScript](./1920_Build_Array_from_Permutation/solution.ts), [Kotlin](./1920_Build_Array_from_Permutation/solution.kts) | Easy |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [TypeScript](./2149_Rearrange_Array_Elements_by_Sign/solution.ts), [TypeScript #2](./2149_Rearrange_Array_Elements_by_Sign/solution2.ts) | Medium |
+| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array) | [TypeScript](./2625_Flatten_Deeply_Nested_Array/solution.ts) | Medium |
+
+#### XIV. String Manipulation
+
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [TypeScript](./5_Longest_Palindromic_Substring/solution.ts) | Medium |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [TypeScript](./11_Container_With_Most_Water/solution.ts) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [TypeScript](./13_Roman_to_Integer/solution.ts) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [TypeScript](./14_Longest_Common_Prefix/solution.ts), [Go](./14_Longest_Common_Prefix/solution.go) | Easy |
-| 35 | [Search Insert Position](https://leetcode.com/search-insert-position) | [TypeScript](./35_Search_Insert_Position/solution.ts), [Python](./35_Search_Insert_Position/solution.py) | Easy |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./209_Minimum_Size_Subarray_Sum/solution.ts) | Medium |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [TypeScript](./217_Contains_Duplicate/solution.ts) | Easy |
-| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [TypeScript](./367_Valid_Perfect_Square/solution.ts) | Easy |
-| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./557_Reverse_Words_in_a_String_III//solution.ts) | Easy |
 | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [TypeScript](./763_Partition_Labels//solution.ts) | Medium |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./848_Shifting_Letters/solution.ts) | Medium |
-| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./1004_Max_Consecutive_Ones_III/solution.ts) | Medium |
-| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [TypeScript](./1920_Build_Array_from_Permutation/solution.ts), [Kotlin](./1920_Build_Array_from_Permutation/solution.kts) | Easy |
-| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./2000_Reverse_Prefix_of_Word/solution.ts), [Go](./2000_Reverse_Prefix_of_Word/solution.go) | Easy |
-| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [TypeScript](./2149_Rearrange_Array_Elements_by_Sign/solution.ts), [TypeScript #2](./2149_Rearrange_Array_Elements_by_Sign/solution2.ts) | Medium |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./2381_Shifting_Letters_II/solution.ts) | Medium |
-| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [TypeScript](./2540_Minimum_Common_Value/solution.ts) | Easy |
-| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array) | [TypeScript](./2625_Flatten_Deeply_Nested_Array/solution.ts) | Medium |
-| 2824 | [Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [TypeScript](./2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.ts), [Go](./2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.go) | Easy |
-| 3194 | [3194 Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | [TypeScript](./3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.ts), [Go](./3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.go) | Easy |
+
+#### XV. Design
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+#### Miscellaneous
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |
+
+### TODO
+
+| # | Title | Solution | Difficulty |
+| - | - | - | - |

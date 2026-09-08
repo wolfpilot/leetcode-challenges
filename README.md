@@ -55,7 +55,8 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | [TypeScript](./problems/15_3Sum/solution.ts) | Medium |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [TypeScript](./problems/167_Two_Sum_II/solution.ts) | Medium |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [TypeScript](./problems/349_Intersection_of_Two_Arrays/solution.ts) | Easy |
-| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./problems/557_Reverse_Words_in_a_String_III//solution.ts) | Easy |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./problems/557_Reverse_Words_in_a_String_III/solution.ts) | Easy |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [TypeScript](./problems/881_Boats_to_Save_People/solution.ts) | Medium |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./problems/2000_Reverse_Prefix_of_Word/solution.ts), [Go](./problems/2000_Reverse_Prefix_of_Word/solution.go) | Easy |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [TypeScript](./problems/2161_Partition_Array_According_to_Given_Pivot/solution.ts) | Medium |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [TypeScript](./problems/2540_Minimum_Common_Value/solution.ts) | Easy |
@@ -137,7 +138,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [TypeScript](./problems/5_Longest_Palindromic_Substring/solution.ts) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [TypeScript](./problems/13_Roman_to_Integer/solution.ts) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [TypeScript](./problems/14_Longest_Common_Prefix/solution.ts), [Go](./problems/14_Longest_Common_Prefix/solution.go) | Easy |
-| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [TypeScript](./problems/763_Partition_Labels//solution.ts) | Medium |
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [TypeScript](./problems/763_Partition_Labels/solution.ts) | Medium |
 | 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./problems/848_Shifting_Letters/solution.ts) | Medium |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./problems/2381_Shifting_Letters_II/solution.ts) | Medium |
 

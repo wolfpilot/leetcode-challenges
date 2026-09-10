@@ -53,6 +53,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [TypeScript](./problems/1_Two_Sum/solution.ts) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [TypeScript](./problems/11_Container_With_Most_Water/solution.ts) | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum) | [TypeScript](./problems/15_3Sum/solution.ts) | Medium |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [TypeScript](./problems/141_Linked_List_Cycle/solution.ts), [TypeScript #2](./problems/141_Linked_List_Cycle/solution2.ts) | Easy |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [TypeScript](./problems/167_Two_Sum_II/solution.ts) | Medium |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [TypeScript](./problems/349_Intersection_of_Two_Arrays/solution.ts) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./problems/557_Reverse_Words_in_a_String_III/solution.ts) | Easy |

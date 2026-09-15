@@ -58,6 +58,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [TypeScript](./problems/202_Happy_Number/solution.ts) | Easy |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [TypeScript](./problems/287_Find_the_Duplicate_Number/solution.ts) | Medium |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [TypeScript](./problems/349_Intersection_of_Two_Arrays/solution.ts) | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems//is-subsequence) | [TypeScript](./problems/392_Is_Subsequence/solution.ts) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./problems/557_Reverse_Words_in_a_String_III/solution.ts) | Easy |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [TypeScript](./problems/881_Boats_to_Save_People/solution.ts) | Medium |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [TypeScript](./problems/977_Squares_of_a_Sorted_Array/solution.ts) | Easy |

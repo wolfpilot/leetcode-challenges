@@ -65,6 +65,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [TypeScript](./problems/881_Boats_to_Save_People/solution.ts) | Medium |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [TypeScript](./problems/977_Squares_of_a_Sorted_Array/solution.ts) | Easy |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./problems/2000_Reverse_Prefix_of_Word/solution.ts), [Go](./problems/2000_Reverse_Prefix_of_Word/solution.go) | Easy |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [TypeScript](./problems/2095_Delete_the_Middle_Node_of_a_Linked_List/solution.ts) | Medium |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [TypeScript](./problems/2161_Partition_Array_According_to_Given_Pivot/solution.ts) | Medium |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [TypeScript](./problems/2540_Minimum_Common_Value/solution.ts) | Easy |
 | 2824 | [Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [TypeScript](./problems/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.ts), [Go](./problems/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.go) | Easy |

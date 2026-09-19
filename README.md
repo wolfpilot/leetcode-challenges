@@ -64,6 +64,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [TypeScript](./problems/349_Intersection_of_Two_Arrays/solution.ts) | Easy |
 | 392 | [Is Subsequence](https://leetcode.com/problems//is-subsequence) | [TypeScript](./problems/392_Is_Subsequence/solution.ts) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./problems/557_Reverse_Words_in_a_String_III/solution.ts) | Easy |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [TypeScript](./problems/844_Backspace_String_Compare/solution.ts) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [TypeScript](./problems/876_Middle_of_the_Linked_List/solution.ts) | Easy |
 | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [TypeScript](./problems/881_Boats_to_Save_People/solution.ts) | Medium |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [TypeScript](./problems/977_Squares_of_a_Sorted_Array/solution.ts) | Easy |

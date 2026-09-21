@@ -1,24 +1,3 @@
-<style>
-    table {
-        width: 100%;
-
-        th:nth-child(1),
-        td:nth-child(1) {
-            width: 60px;
-        }
-
-        th:nth-child(3),
-        td:nth-child(3) {
-            width: 100px
-        }
-
-        th:nth-child(4),
-        td:nth-child(4) {
-            width: 80px
-        }
-    }
-</style>
-
 # LeetCode
 
 ### How to run

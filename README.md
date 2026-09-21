@@ -59,6 +59,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [TypeScript](./problems/3_Longest_Substring_Without_Repeating_Characters/solution.ts), [TypeScript #2](./problems/3_Longest_Substring_Without_Repeating_Characters/solution2.ts) | Medium |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./problems/209_Minimum_Size_Subarray_Sum/solution.ts) | Medium |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./problems/1004_Max_Consecutive_Ones_III/solution.ts) | Medium |
 

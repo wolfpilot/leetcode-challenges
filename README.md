@@ -29,40 +29,40 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [TypeScript](./problems/1_Two_Sum/solution.ts) | Easy |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [TypeScript](./problems/11_Container_With_Most_Water/solution.ts) | Medium |
-| 15 | [3Sum](https://leetcode.com/problems/3sum) | [TypeScript](./problems/15_3Sum/solution.ts) | Medium |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [TypeScript](./problems/19_Remove_Nth_Node_From_End_of_List/solution.ts) | Medium |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [TypeScript](./problems/26_Remove_Duplicates_from_Sorted_Array/solution.ts) | Easy |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [TypeScript](./problems/75_Sort_Colors/solution.ts) | Medium |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [TypeScript](./problems/141_Linked_List_Cycle/solution.ts), [TypeScript #2](./problems/141_Linked_List_Cycle/solution2.ts) | Easy |
-| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [TypeScript](./problems/151_Reverse_Words_in_a_String/solution.ts) | Medium |
-| 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [TypeScript](./problems/167_Two_Sum_II/solution.ts) | Medium |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [TypeScript](./problems/202_Happy_Number/solution.ts) | Easy |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [TypeScript](./problems/283_Move_Zeroes/solution.ts) | Easy |
-| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [TypeScript](./problems/287_Find_the_Duplicate_Number/solution.ts) | Medium |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [TypeScript](./problems/349_Intersection_of_Two_Arrays/solution.ts) | Easy |
-| 392 | [Is Subsequence](https://leetcode.com/problems//is-subsequence) | [TypeScript](./problems/392_Is_Subsequence/solution.ts) | Easy |
-| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./problems/557_Reverse_Words_in_a_String_III/solution.ts) | Easy |
-| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [TypeScript](./problems/844_Backspace_String_Compare/solution.ts) | Easy |
-| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [TypeScript](./problems/876_Middle_of_the_Linked_List/solution.ts) | Easy |
-| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [TypeScript](./problems/881_Boats_to_Save_People/solution.ts) | Medium |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [TypeScript](./problems/977_Squares_of_a_Sorted_Array/solution.ts) | Easy |
-| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./problems/2000_Reverse_Prefix_of_Word/solution.ts), [Go](./problems/2000_Reverse_Prefix_of_Word/solution.go) | Easy |
-| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [TypeScript](./problems/2095_Delete_the_Middle_Node_of_a_Linked_List/solution.ts) | Medium |
-| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [TypeScript](./problems/2161_Partition_Array_According_to_Given_Pivot/solution.ts) | Medium |
-| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [TypeScript](./problems/2540_Minimum_Common_Value/solution.ts) | Easy |
-| 2824 | [Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [TypeScript](./problems/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.ts), [Go](./problems/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.go) | Easy |
-| 3194 | [3194 Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | [TypeScript](./problems/3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.ts), [Go](./problems/3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.go) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [TypeScript](./problems/1_Two_Sum/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [TypeScript](./problems/11_Container_With_Most_Water/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 15 | [3Sum](https://leetcode.com/problems/3sum) | [TypeScript](./problems/15_3Sum/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [TypeScript](./problems/19_Remove_Nth_Node_From_End_of_List/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [TypeScript](./problems/26_Remove_Duplicates_from_Sorted_Array/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [TypeScript](./problems/75_Sort_Colors/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [TypeScript](./problems/141_Linked_List_Cycle/solution.ts), [TypeScript #2](./problems/141_Linked_List_Cycle/solution2.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [TypeScript](./problems/151_Reverse_Words_in_a_String/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [TypeScript](./problems/167_Two_Sum_II/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [TypeScript](./problems/202_Happy_Number/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [TypeScript](./problems/283_Move_Zeroes/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [TypeScript](./problems/287_Find_the_Duplicate_Number/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [TypeScript](./problems/349_Intersection_of_Two_Arrays/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 392 | [Is Subsequence](https://leetcode.com/problems//is-subsequence) | [TypeScript](./problems/392_Is_Subsequence/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [TypeScript](./problems/557_Reverse_Words_in_a_String_III/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [TypeScript](./problems/844_Backspace_String_Compare/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [TypeScript](./problems/876_Middle_of_the_Linked_List/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [TypeScript](./problems/881_Boats_to_Save_People/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [TypeScript](./problems/977_Squares_of_a_Sorted_Array/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | [TypeScript](./problems/2000_Reverse_Prefix_of_Word/solution.ts), [Go](./problems/2000_Reverse_Prefix_of_Word/solution.go) | $\color{#88BFA5}\textsf{Easy}$ |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [TypeScript](./problems/2095_Delete_the_Middle_Node_of_a_Linked_List/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [TypeScript](./problems/2161_Partition_Array_According_to_Given_Pivot/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [TypeScript](./problems/2540_Minimum_Common_Value/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 2824 | [Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | [TypeScript](./problems/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.ts), [Go](./problems/2824_Count_Pairs_Whose_Sum_is_Less_than_Target/solution.go) | $\color{#88BFA5}\textsf{Easy}$ |
+| 3194 | [3194 Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | [TypeScript](./problems/3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.ts), [Go](./problems/3194_Minimum_Average_of_Smallest_and_Largest_Elements/solution.go) | $\color{#88BFA5}\textsf{Easy}$ |
 
 #### II. Sliding Window
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [TypeScript](./problems/3_Longest_Substring_Without_Repeating_Characters/solution.ts), [TypeScript #2](./problems/3_Longest_Substring_Without_Repeating_Characters/solution2.ts) | Medium |
-| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [TypeScript](./problems/76_Minimum_Window_Substring/solution.ts) | Hard |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./problems/209_Minimum_Size_Subarray_Sum/solution.ts) | Medium |
-| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./problems/1004_Max_Consecutive_Ones_III/solution.ts) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [TypeScript](./problems/3_Longest_Substring_Without_Repeating_Characters/solution.ts), [TypeScript #2](./problems/3_Longest_Substring_Without_Repeating_Characters/solution2.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [TypeScript](./problems/76_Minimum_Window_Substring/solution.ts) | $\color{#F26052}\textsf{Hard}$ |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./problems/209_Minimum_Size_Subarray_Sum/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./problems/1004_Max_Consecutive_Ones_III/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 
 #### III. Tree Traversal
 
@@ -98,8 +98,8 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
-| 35 | [Search Insert Position](https://leetcode.com/search-insert-position) | [TypeScript](./problems/35_Search_Insert_Position/solution.ts), [Python](./problems/35_Search_Insert_Position/solution.py) | Easy |
-| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [TypeScript](./problems/367_Valid_Perfect_Square/solution.ts) | Easy |
+| 35 | [Search Insert Position](https://leetcode.com/search-insert-position) | [TypeScript](./problems/35_Search_Insert_Position/solution.ts), [Python](./problems/35_Search_Insert_Position/solution.py) | $\color{#88BFA5}\textsf{Easy}$ |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [TypeScript](./problems/367_Valid_Perfect_Square/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
 
 #### X. Stack
 
@@ -120,21 +120,21 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [TypeScript](./problems/217_Contains_Duplicate/solution.ts) | Easy |
-| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [TypeScript](./problems/1920_Build_Array_from_Permutation/solution.ts), [Kotlin](./problems/1920_Build_Array_from_Permutation/solution.kts) | Easy |
-| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [TypeScript](./problems/2149_Rearrange_Array_Elements_by_Sign/solution.ts), [TypeScript #2](./problems/2149_Rearrange_Array_Elements_by_Sign/solution2.ts) | Medium |
-| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array) | [TypeScript](./problems/2625_Flatten_Deeply_Nested_Array/solution.ts) | Medium |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [TypeScript](./problems/217_Contains_Duplicate/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [TypeScript](./problems/1920_Build_Array_from_Permutation/solution.ts), [Kotlin](./problems/1920_Build_Array_from_Permutation/solution.kts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | [TypeScript](./problems/2149_Rearrange_Array_Elements_by_Sign/solution.ts), [TypeScript #2](./problems/2149_Rearrange_Array_Elements_by_Sign/solution2.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array) | [TypeScript](./problems/2625_Flatten_Deeply_Nested_Array/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 
 #### XIV. String Manipulation
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [TypeScript](./problems/5_Longest_Palindromic_Substring/solution.ts) | Medium |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [TypeScript](./problems/13_Roman_to_Integer/solution.ts) | Easy |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [TypeScript](./problems/14_Longest_Common_Prefix/solution.ts), [Go](./problems/14_Longest_Common_Prefix/solution.go) | Easy |
-| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [TypeScript](./problems/763_Partition_Labels/solution.ts) | Medium |
-| 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./problems/848_Shifting_Letters/solution.ts) | Medium |
-| 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./problems/2381_Shifting_Letters_II/solution.ts) | Medium |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [TypeScript](./problems/5_Longest_Palindromic_Substring/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [TypeScript](./problems/13_Roman_to_Integer/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [TypeScript](./problems/14_Longest_Common_Prefix/solution.ts), [Go](./problems/14_Longest_Common_Prefix/solution.go) | $\color{#88BFA5}\textsf{Easy}$ |
+| 763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | [TypeScript](./problems/763_Partition_Labels/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [TypeScript](./problems/848_Shifting_Letters/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | [TypeScript](./problems/2381_Shifting_Letters_II/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 
 #### XV. Design
 

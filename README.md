@@ -7,7 +7,7 @@
 ```bash
 # npx tsx <FILE_PATH>
 
-ex: npx tsx .\2824_Count_Pairs_Whose_Sum_is_Less_than_Target\solution.ts
+ex: npx tsx .\problems\2824_Count_Pairs_Whose_Sum_is_Less_than_Target\solution.ts
 ```
 
 #### Go
@@ -15,7 +15,7 @@ ex: npx tsx .\2824_Count_Pairs_Whose_Sum_is_Less_than_Target\solution.ts
 ```bash
 # go run <FILE_PATH>
 
-ex: go run .\2824_Count_Pairs_Whose_Sum_is_Less_than_Target\solution.go
+ex: go run .\problems\2824_Count_Pairs_Whose_Sum_is_Less_than_Target\solution.go
 ```
 
 #### Python
@@ -62,6 +62,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [TypeScript](./problems/3_Longest_Substring_Without_Repeating_Characters/solution.ts), [TypeScript #2](./problems/3_Longest_Substring_Without_Repeating_Characters/solution2.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [TypeScript](./problems/76_Minimum_Window_Substring/solution.ts) | $\color{#F26052}\textsf{Hard}$ |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./problems/209_Minimum_Size_Subarray_Sum/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [TypeScript](./problems/424_Longest_Repeating_Character_Replacement/solution.ts) | $\color{#F26052}\textsf{Hard???}$ |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./problems/1004_Max_Consecutive_Ones_III/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 
 #### III. Tree Traversal

@@ -63,6 +63,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [TypeScript](./problems/76_Minimum_Window_Substring/solution.ts) | $\color{#F26052}\textsf{Hard}$ |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [TypeScript](./problems/209_Minimum_Size_Subarray_Sum/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | [TypeScript](./problems/424_Longest_Repeating_Character_Replacement/solution.ts) | $\color{#F26052}\textsf{Hard???}$ |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | [TypeScript](./problems/438_Find_All_Anagrams_in_a_String/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [TypeScript](./problems/1004_Max_Consecutive_Ones_III/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 
 #### III. Tree Traversal

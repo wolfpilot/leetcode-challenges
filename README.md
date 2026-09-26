@@ -70,7 +70,8 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [TypeScript](./problems/102_Binary_Tree_Level_Order_Traversal/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [TypeScript](./problems/102_Binary_Tree_Level_Order_Traversal/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [TypeScript](./problems/199_Binary_Tree_Right_Side_View/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 
 #### IV. Graph Traversal
 

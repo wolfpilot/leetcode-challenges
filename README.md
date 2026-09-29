@@ -70,6 +70,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [TypeScript](./problems/98_Validate_Binary_Search_Tree/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [TypeScript](./problems/102_Binary_Tree_Level_Order_Traversal/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [TypeScript](./problems/199_Binary_Tree_Right_Side_View/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [TypeScript](./problems/226_Invert_Binary_Tree/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |

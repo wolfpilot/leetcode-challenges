@@ -73,6 +73,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [TypeScript](./problems/98_Validate_Binary_Search_Tree/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [TypeScript](./problems/102_Binary_Tree_Level_Order_Traversal/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [TypeScript](./problems/104_Maximum_Depth_of_Binary_Tree/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | [TypeScript](./problems/124_Binary_Tree_Maximum_Path_Sum/solution.ts) | $\color{#F26052}\textsf{Hard}$ |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [TypeScript](./problems/199_Binary_Tree_Right_Side_View/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [TypeScript](./problems/226_Invert_Binary_Tree/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [TypeScript](./problems/230_Kth_Smallest_Element_in_a_BST/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |

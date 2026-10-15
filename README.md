@@ -87,6 +87,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | # | Title | Solution | Difficulty |
 | - | - | - | - |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [TypeScript](./problems/200_Number_of_Islands/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
+| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [TypeScript](./problems/695_Max_Area_of_Island/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 
 #### V. Dynamic Programming (DP)
 

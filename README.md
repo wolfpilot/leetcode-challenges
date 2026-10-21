@@ -88,6 +88,7 @@ Alternatively, try out any of the online compilers, such as [Programiz](https://
 | - | - | - | - |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [TypeScript](./problems/200_Number_of_Islands/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [TypeScript](./problems/207_Course_Schedule/solution.ts) | $\color{#F26052}\textsf{Hard (?)}$ |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [TypeScript](./problems/210_Course_Schedule_II/solution.ts) | $\color{#F26052}\textsf{Hard (?)}$ |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [TypeScript](./problems/695_Max_Area_of_Island/solution.ts) | $\color{#F2C777}\textsf{Medium}$ |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [TypeScript](./problems/733_Flood_Fill/solution.ts) | $\color{#88BFA5}\textsf{Easy}$ |
 
